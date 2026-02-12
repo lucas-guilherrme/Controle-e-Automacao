@@ -1,3 +1,4 @@
+```
 Controle-e-Automacao/
 │
 ├── README.md                 # Visão geral do repositório, objetivos e como navegar
@@ -51,3 +52,4 @@ Controle-e-Automacao/
 └── scripts-uteis/          # Ferramentas auxiliares (conversão de dados, plotagem)
     ├── plotar_resposta.py  # Script Python para gerar gráficos de resposta
     └── converter_log.py    # Script para tratar logs de instrumentos
+```
