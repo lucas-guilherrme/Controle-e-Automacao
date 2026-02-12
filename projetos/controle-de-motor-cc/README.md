@@ -4,7 +4,7 @@
 # 📍 Índice
 - [Introdução](#-Introdução)
 - [Sobre o Projeto](#-Sobre-o-Projeto)
-- [Diagramas de blocos](#-Diagrama-de-blocos)
+- [Diagramas de blocos](#-Diagramas-de-blocos)
 - [Quick Start](#-Quick-Start)
 
 <div align="center">
