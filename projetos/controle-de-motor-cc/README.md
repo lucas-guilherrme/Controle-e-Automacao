@@ -2,9 +2,9 @@
 ***
 
 # 📍 Índice
-- [Introdução](-#introdução)
-- [Sobre o Projeto](-#sobre-o-projeto)
-- [Diagramas de blocos](-#diagrama-de-blocos)
+- [Introdução](-#Introdução)
+- [Sobre o Projeto](-#Sobre-o-Projeto)
+- [Diagramas de blocos](-#Diagrama-de-blocos)
 - [Quick Start](-#Quick-Start)
 
 <div align="center">
